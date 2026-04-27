@@ -36,19 +36,9 @@ The goal was to support product development and pricing decisions using a monthl
 -Lapse Rate: 1% of remaining policyholders are assumed to lapse at the end of each month.
 
 -Expenses; Upfront Commision of 15% of the total premium for the year
-
            Upfront Admin Cost of R50 per polcy
-
            Ongoing Admin Cost of R5 per policy per month
-           
            Investment Return of 8% per annum
-
-•	Lapse Rate: 1% of remaining policyholders are assumed to lapse at the end of each month.
-•	Expenses:
-o	Upfront Commission: 15% of the total premium for the year.
-o	Upfront Admin Cost: R50 per policy.
-o	Ongoing Admin Cost: R5 per policy per month.
-•	Investment Return / Discount Rate: 8% per annum.
 ---
 
 ## Files Included
