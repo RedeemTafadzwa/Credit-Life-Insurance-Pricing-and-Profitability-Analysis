@@ -25,15 +25,17 @@ The goal was to support product development and pricing decisions using a monthl
 
 ---
 
-## Methodology
-
-The following steps were completed:
-
 ## Product and Policyholder Assumptions
 
-•	Loan Term: 12 months
-•	Loan Amount: R10,000 (level for the term)
-•	Mortality Rate: A flat 0.5% per annum for all policyholders.
+-Loan Term: 12 months.
+-Loan Amount: R10 000(level for the term).
+-Mortality Rate: 0.5% per annum for all policyholders.
+-Lapse Rate: 1% of remaining policyholders are assumed to lapse at the end of each month.
+-Expenses; Upfront Commision of 15% of the total premium for the year
+           Upfront Admin Cost of R50 per polcy
+           Ongoing Admin Cost of R5 per policy per month
+           Investment Return of 8% per annum
+
 •	Lapse Rate: 1% of remaining policyholders are assumed to lapse at the end of each month.
 •	Expenses:
 o	Upfront Commission: 15% of the total premium for the year.
