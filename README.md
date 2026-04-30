@@ -40,8 +40,14 @@ The goal was to support product development and pricing decisions using a monthl
 
 -Expenses:
  Upfront Commision of 15% of the total premium dor the year
+
+ 
  Upfront Admin Cost of R50 per policy
+
+ 
  Ongoing Admin Cost of R5 per policy per month
+
+ 
  Investment Return of 8% per annum
 
 ---
