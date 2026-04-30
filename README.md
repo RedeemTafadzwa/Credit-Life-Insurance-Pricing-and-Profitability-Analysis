@@ -52,10 +52,9 @@ The goal was to support product development and pricing decisions using a monthl
 
 ---
 
-## Files Included
-
-* Excel pricing model with Profitability projection calcualtion and Sensitivity analysis
-* Summary memo that gives a detailed explanantion of the methodology and the results.
+## Repository Contents
+- `CLifeInsurance.Pricing&Profitability Memorandum.pdf` – Detailed analysis and insights.
+- `CLifeInsurance.Pricing&ProfitabilityCalculations.xlsx` – SQL queries used for data cleaning and analysis.
 
 ---
 
